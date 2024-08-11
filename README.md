@@ -6,7 +6,7 @@ A passionate Data Analyst from India
 Instagram LinkedIn
 
 💻 Tech Stack:
-Matplotlib NumPy Pandas Scipy Plotly scikit-learn
+Matplotlib, NumPy, Pandas, Scipy, Plotly, scikit-learn, SQL, Power BI, Tableau, Machine & Deep Learning.
 
 <!---
 singhkrishna5454/singhkrishna5454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
